@@ -1,0 +1,71 @@
+1. Title of the project
+2. About the bproject
+3. Why we need this project :
+4. Existing system
+5. Proposed system
+6. Technical stack:
+7. Front-end : html,css,javascript,bootstrap
+8. Database : Mysql
+9. Back-end(server-side) : servlets,JSP(java) / Python
+10.Frameworks : django(Python)/spring boot(java)  
+
+
+
+                                                 project.1
+                                               --------------
+
+                                       (Online) Book Store
+                                                    |
+                                        ____________________________
+                                       |                            |
+                                   Buy books                   Sell books
+
+                    
+
+                                   Users
+                                     |_______ Admin(master user)
+                                     |        login
+                                     |        signup
+                                     |        dashboard
+                                     |
+                                     |_______ Costomer(buy/sell) => 2nd hand books(used books)
+                                     |        login
+                                     |        signup
+                                     |        dashboard                                      
+                                     |
+                                     |_______ Booksvendor/publisher(sell)
+                                     |        login
+                                     |        signup
+                                     |        dashboard
+                                     |
+                                     |_______ Ananamyus user(guest)
+
+
+
+
+
+                                                     project.2
+                                                   --------------
+
+
+                                                      Taskily
+                                                         |
+                                      _______________________________________
+                                     |                   |                   |
+                                   Admin               Lead               Employee
+                                   login               login              login    
+                                   signup              signup             signup
+                                   dashboard           dashboard          dashboard
+                                   
+                                  
+                                 
+
+                                                      project.3
+                                                    --------------
+
+                    
+                                                         Market
+                                                           |
+                                           ___________________________________
+                                          |                |                  |
+                                        Admin            Customer           Vendor            guest

@@ -1,0 +1,49 @@
+body
+{
+    background-color: cornflowerblue;
+}
+div
+{
+height: 400px;
+width:400px;
+background-color: white;
+margin-top: 100px;
+padding-top: 60px;
+}
+h1
+{
+    font-size: 30px;
+    font-weight: 1000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+input[type=email]
+{
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+}
+input[type=password]
+{
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+}
+input[type=submit]
+{
+    height: 25px;
+    width: 70px;
+    border-radius: 5px;
+    color: white;
+    background-color: blue;
+}
+input[type=reset]
+{
+    height: 25px;
+    width: 70px;
+    border-radius: 5px;
+    color: white;
+    background-color: blue;
+}
+
+
+

@@ -1,0 +1,24 @@
+@media only screen and (min-width: 500px)
+and(max-width:799px)
+{
+    body
+    {
+        background-color: aqua;
+    }
+}
+@media only screen and (min-width: 800px)
+and(max-width:1200px)
+{
+    body
+    {
+        background-color: rebeccapurple;
+    }
+}
+@media only screen and (min-width: 1200px)
+and(max-width:1400px)
+{
+    body
+    {
+        background-color: red;
+    }
+}
